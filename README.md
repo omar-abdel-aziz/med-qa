@@ -95,7 +95,7 @@ medical-qa-api/
 1. **Clone** repository
 
    ```bash
-   git clone https://github.com/yourusername/medical-qa-api.git
+   git clone [https://github.com/yourusername/medical-qa-api.git](https://github.com/omar-abdel-aziz/med-qa.git)
    cd medical-qa-api
    ```
 
